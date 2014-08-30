@@ -1,0 +1,4 @@
+Propositions
+============
+
+Logic proposition manipulator
