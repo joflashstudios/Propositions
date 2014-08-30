@@ -1,0 +1,16 @@
+C:\Users\Elizabeth\AppData\Local\Temporary Projects\ChangingPropositions\obj\x86\Debug\ChangingPropositions.Properties.Resources.resources
+C:\Users\Elizabeth\AppData\Local\Temporary Projects\ChangingPropositions\obj\x86\Debug\ChangingPropositions.csproj.GenerateResource.Cache
+C:\Users\Elizabeth\AppData\Local\Temporary Projects\ChangingPropositions\bin\Debug\ChangingPropositions.exe
+C:\Users\Elizabeth\AppData\Local\Temporary Projects\ChangingPropositions\bin\Debug\ChangingPropositions.pdb
+C:\Users\Elizabeth\AppData\Local\Temporary Projects\ChangingPropositions\obj\x86\Debug\ChangingPropositions.exe
+C:\Users\Elizabeth\AppData\Local\Temporary Projects\ChangingPropositions\obj\x86\Debug\ChangingPropositions.pdb
+C:\Users\Elizabeth\documents\visual studio 2010\Projects\ChangingPropositions\ChangingPropositions\obj\x86\Debug\ChangingPropositions.exe
+C:\Users\Elizabeth\documents\visual studio 2010\Projects\ChangingPropositions\ChangingPropositions\obj\x86\Debug\ChangingPropositions.pdb
+C:\Users\Elizabeth\documents\visual studio 2010\Projects\ChangingPropositions\ChangingPropositions\bin\Debug\ChangingPropositions.exe
+C:\Users\Elizabeth\documents\visual studio 2010\Projects\ChangingPropositions\ChangingPropositions\bin\Debug\ChangingPropositions.pdb
+C:\Users\Elizabeth\documents\visual studio 2010\Projects\ChangingPropositions\ChangingPropositions\obj\x86\Debug\ChangingPropositions.Properties.Resources.resources
+C:\Users\Elizabeth\documents\visual studio 2010\Projects\ChangingPropositions\ChangingPropositions\obj\x86\Debug\ChangingPropositions.csproj.GenerateResource.Cache
+C:\Users\Elizabeth\documents\visual studio 2010\Projects\ChangingPropositions\ChangingPropositions\obj\x86\Debug\ChangingPropositions.Form1.resources
+C:\Users\Elizabeth\documents\visual studio 2010\Projects\ChangingPropositions\ChangingPropositions\obj\x86\Debug\ChangingPropositions.csprojResolveAssemblyReference.cache
+C:\Users\Elizabeth\Source\Repos\Propositions\ChangingPropositions\obj\x86\Debug\ChangingPropositions.exe
+C:\Users\Elizabeth\Source\Repos\Propositions\ChangingPropositions\obj\x86\Debug\ChangingPropositions.pdb
