@@ -14,3 +14,11 @@ C:\Users\Elizabeth\documents\visual studio 2010\Projects\ChangingPropositions\Ch
 C:\Users\Elizabeth\documents\visual studio 2010\Projects\ChangingPropositions\ChangingPropositions\obj\x86\Debug\ChangingPropositions.csprojResolveAssemblyReference.cache
 C:\Users\Elizabeth\Source\Repos\Propositions\ChangingPropositions\obj\x86\Debug\ChangingPropositions.exe
 C:\Users\Elizabeth\Source\Repos\Propositions\ChangingPropositions\obj\x86\Debug\ChangingPropositions.pdb
+C:\Users\Elizabeth\Documents\GitHubVisualStudio\Propositions\ChangingPropositions\obj\x86\Debug\ChangingPropositions.exe
+C:\Users\Elizabeth\Documents\GitHubVisualStudio\Propositions\ChangingPropositions\obj\x86\Debug\ChangingPropositions.pdb
+C:\Users\Elizabeth\Documents\GitHubVisualStudio\Propositions\ChangingPropositions\bin\Debug\ChangingPropositions.exe
+C:\Users\Elizabeth\Documents\GitHubVisualStudio\Propositions\ChangingPropositions\bin\Debug\ChangingPropositions.pdb
+C:\Users\Elizabeth\Documents\GitHubVisualStudio\Propositions\ChangingPropositions\obj\x86\Debug\ChangingPropositions.csprojResolveAssemblyReference.cache
+C:\Users\Elizabeth\Documents\GitHubVisualStudio\Propositions\ChangingPropositions\obj\x86\Debug\ChangingPropositions.MainForm.resources
+C:\Users\Elizabeth\Documents\GitHubVisualStudio\Propositions\ChangingPropositions\obj\x86\Debug\ChangingPropositions.Properties.Resources.resources
+C:\Users\Elizabeth\Documents\GitHubVisualStudio\Propositions\ChangingPropositions\obj\x86\Debug\ChangingPropositions.csproj.GenerateResource.Cache
